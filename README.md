@@ -1,11 +1,8 @@
 # RSADemo
-this is a github test project
+this is wechat pay api demo
 
-# 我的第一个GitHub项目
-
-这个项目的版本库是 **Git格式** ，在 Windows、Linux、Mac OS X
-平台都有客户端工具可以访问。虽然版本库只提供Git一种格式，
-但是你还是可以用其他用其他工具访问，如 ``svn`` 和 ``hg`` 。
+# 这是一个微信支付接口的demo
+微信支付平台和阿里支付平台(支付宝)是现在比较流行的两个移动端支付API，该demo就是熟悉下微信支付的流程。
 
 ## 版本库地址
 
